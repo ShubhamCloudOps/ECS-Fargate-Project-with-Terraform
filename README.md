@@ -184,13 +184,9 @@ DB_PASSWORD = veeranarni
 
 ---
 
-## ⚠️ Important Notes
+## Prerequisites
 
-* ❗ Database password is hardcoded (not secure)
-* ❗ RDS is publicly accessible
-* ❗ Some resources are expected to exist already
-* ❗ Multiple provider blocks should be consolidated
-
+*  Build and Push Frontend and Backend Images to ECR using Docker first.
 ---
 
 ## 🚀 Deployment Steps
